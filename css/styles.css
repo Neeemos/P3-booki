@@ -169,7 +169,6 @@ img {
 	border: 1px solid #d9d9d9;
 	border-radius: 100%;
 	color: #0065fc;
-	font-size: 0.8em;
 	height: 25px;
 	padding: 5px 8px;
 	width: 25px;
@@ -214,7 +213,6 @@ img {
 }
 
 .item__link {
-	font-size: 0.9em;
 	width: 100%;
 }
 .description {
@@ -222,12 +220,8 @@ img {
 	flex-direction: column;
 	height: 35%;
 }
-.description__title {
-	font-size: 0.8em;
-}
-.description__text {
-	font-size: 0.8em;
-}
+
+
 
 .item__img {
 	border-radius: 15px 15px 0 0;
@@ -242,7 +236,6 @@ img {
 
 .star {
 	color: #0065FC;
-	font-size: .75rem
 }
 
 .star--empty {
@@ -369,9 +362,6 @@ img {
 
 @media screen and (max-width: 992px) {
 
-	h3 {
-		font-size: 0.9em;
-	}
 
 	.header__logo {
 		width: 60px;
